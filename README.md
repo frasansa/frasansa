@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @frasansa
+- 👋 Hi, I’m Francisco Sanchez-Saez.
 - 👀 I’m interested in Rstats in general, and in biostatistics in particular. My current field of expertise is the pharmacoepidemiology.
-- 📫 How to reach me: twitter @frasansa
+- 📫 How to reach me: twitter [@frasansa](https://twitter.com/Frasansa).
 
 <!---
 frasansa/frasansa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
