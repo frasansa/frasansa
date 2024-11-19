@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francisco Sanchez-Saez.
-- 👀 I’m interested in Rstats in general, and in biostatistics in particular. My current field of expertise is the pharmacoepidemiology.
+- 👀 RStats user.
 - 📫 How to reach me: twitter [@frasansa](https://twitter.com/Frasansa).
 - https://www.rookdatascientist.com/
 
